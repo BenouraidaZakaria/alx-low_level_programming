@@ -1,8 +1,9 @@
 #include <stdio.h>
+
 /**
- * main
+ * main -Entry point
  *
- * Description  A program that prints with put function 
+ * Description:  A program that prints with put function 
  * 
  * Return: Always 0 
  **/
